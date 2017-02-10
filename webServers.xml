@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aeec83dd-9a3b-4970-bf0e-ae5ee93874a6" name="Stenner" url="http://localhost:8888">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
